@@ -5,9 +5,13 @@
 ## Course Summary
 In this course, you will delve into the world of vector databases and their applications. Here's what you can expect to learn and experience:
 
-1. 📚 **Understanding Vector Databases**: Explore the role of vector databases in natural language processing, image recognition, recommender systems, and semantic search.
+1. 📚 **Understanding Vector Databases**: Explore the role of vector databases in natural language processing, image recognition, recommender systems, and semantic search. 
 
 2. 🧠 **Embeddings and Similarity**: Learn how embeddings capture the meaning of data and how vector databases gauge the similarity between vectors.
+<p align="center">
+<img src="images/1_1.png" height="450"> 
+<img src="images/1_2.png" height="450"> 
+</p>
 
 3. ⚙️ **Building RAG Applications**: Develop Retrieval Augmented Generation (RAG) applications using vector databases and LLMs.
 

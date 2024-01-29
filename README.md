@@ -15,12 +15,12 @@ In this course, you will delve into the world of vector databases and their appl
 
 3. :mag_right: **Demonstration of KNN (L2)**
 <p align="center">
-<img src="images/2_1.png" height="300"> 
-<img src="images/2_2.png" height="300"> 
-<img src="images/2_3.png" height="300"> 
+<img src="images/2_1.png" height="270"> 
+<img src="images/2_2.png" height="270"> 
+<img src="images/2_3.png" height="270"> 
 </p>
 
-4. **Approximate nearest neighbours (L3)**
+4. :chart_with_upwards_trend: **Approximate nearest neighbours (L3)**
 <p align="center">
 <img src="images/3_1.png" height="270"> 
 <img src="images/3_2.png" height="270"> 

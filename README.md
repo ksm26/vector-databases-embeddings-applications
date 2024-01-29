@@ -33,7 +33,10 @@ In this course, you will delve into the world of vector databases and their appl
 <img src="images/3_8.png" height="270"> 
 </p>
 
-3. ⚙️ **Building RAG Applications**: Develop Retrieval Augmented Generation (RAG) applications using vector databases and LLMs.
+5. ⚙️ **Building RAG Applications (L6)**: Develop Retrieval Augmented Generation (RAG) applications using vector databases and LLMs.
+<p align="center">
+<img src="images/6_1.png" height="300"> 
+</p>
 
 ## Key Points
 - 🔑 Build practical applications, including hybrid and multilingual searches, for diverse industries.

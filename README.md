@@ -13,6 +13,7 @@ In this course, you will delve into the world of vector databases and their appl
 <img src="images/1_2.png" height="300"> 
 </p>
 
+3. :mag_right: **Demonstration of KNN**
 3. ⚙️ **Building RAG Applications**: Develop Retrieval Augmented Generation (RAG) applications using vector databases and LLMs.
 
 ## Key Points

@@ -7,17 +7,30 @@ In this course, you will delve into the world of vector databases and their appl
 
 1. 📚 **Understanding Vector Databases**: Explore the role of vector databases in natural language processing, image recognition, recommender systems, and semantic search. 
 
-2. 🧠 **Embeddings and Similarity**: Learn how embeddings capture the meaning of data and how vector databases gauge the similarity between vectors.
+2. 🧠 **Embeddings and Similarity (L1)**: Learn how embeddings capture the meaning of data and how vector databases gauge the similarity between vectors.
 <p align="center">
 <img src="images/1_1.png" height="300"> 
 <img src="images/1_2.png" height="300"> 
 </p>
 
-3. :mag_right: **Demonstration of KNN**
+3. :mag_right: **Demonstration of KNN (L2)**
 <p align="center">
 <img src="images/2_1.png" height="300"> 
 <img src="images/2_2.png" height="300"> 
 <img src="images/2_3.png" height="300"> 
+</p>
+
+4. **Approximate nearest neighbours (L3)**
+<p align="center">
+<img src="images/3_1.png" height="270"> 
+<img src="images/3_2.png" height="270"> 
+<img src="images/3_4.png" height="270"> 
+</p>
+
+<p align="center">
+<img src="images/3_6.png" height="270"> 
+<img src="images/3_7.png" height="270"> 
+<img src="images/3_8.png" height="270"> 
 </p>
 
 3. ⚙️ **Building RAG Applications**: Develop Retrieval Augmented Generation (RAG) applications using vector databases and LLMs.
